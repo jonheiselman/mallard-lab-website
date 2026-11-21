@@ -1,218 +1,924 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/molbev/msag265
-  title: pendingpublications
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/hcpr59
-  orcid: 0000-0002-4655-3773
+- id: doi:10.1109/LRA.2026.3710046
+  title: "<i>ReSNA:</i>\n                    A Robotic-Enabled Surgical Navigation\
+    \ Assistant for Breast-Conserving Surgery"
+  authors:
+  - Zixuan Liu
+  - Bowen Xiang
+  - Jon Heiselman
+  - Jie Ying Wu
+  - Ingrid Meszoely
+  - Michael I. Miga
+  publisher: IEEE Robotics and Automation Letters
+  date: '2026-08-01'
+  link: https://doi.org/hctkdn
+  orcid: 0000-0002-4414-8846
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1016/j.ejrad.2026.112776
+  title: Image registration improves inter-reader agreement of objective response
+    in CT assessment of pancreas adenocarcinoma
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Jon S. Heiselman
+  - Natally Horvat
+  - Maria El Homsi
+  - Burcin Agridag-Ucpinar
+  - Onur Yildirim
+  - Mithat Gonen
+  - Brett L. Ecker
+  - "Eileen M. O\u2019Reilly"
+  - Jeffrey A. Drebin
+  - Vinod P. Balachandran
+  - T. Peter Kingham
+  - Kevin C. Soares
+  - "Michael I. D\u2019Angelica"
+  - Richard K.G. Do
+  - William R. Jarnagin
+  - Alice C. Wei
+  - Jayasree Chakraborty
+  publisher: European Journal of Radiology
+  date: '2026-06-01'
+  link: https://doi.org/hctkdp
+  orcid: 0000-0002-4414-8846
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1109/JBHI.2025.3583875
+  title: Resolving the Ambiguity of Complete-to-Partial Point Cloud Registration for
+    Image-Guided Liver Surgery With Patches-to-Partial Matching
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Zixin Yang
+  - Jon S. Heiselman
+  - Cheng Han
+  - Kelly Merrell
+  - Richard Simon
+  - Cristian A. Linte
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  date: '2026-01-01'
+  link: https://doi.org/hctkdq
+  orcid: 0000-0002-4414-8846
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1117/1.JMI.12.5.055001
+  title: Comprehensive mixed reality surgical navigation system for liver surgery
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Bowen Xiang
+  - Jon S. Heiselman
+  - Michael I. Miga
+  publisher: Journal of Medical Imaging
+  date: '2025-10-06'
+  link: https://doi.org/hctkdr
+  orcid: 0000-0002-4414-8846
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1245/s10434-025-17462-y
+  title: 'Precision in Liver Surgery: A Comparative Analysis of Volumetry Techniques'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Ankur P. Choubey
+  - Joanne Chou
+  - Crisanta Ilagan
+  - John Steinharter
+  - Jon S. Heiselman
+  - Jayasree Chakraborty
+  - Kevin C. Soares
+  - Alice C. Wei
+  - Mithat Gonen
+  - Vinod P. Balachandran
+  - Jeffrey Drebin
+  - T. Peter Kingham
+  - "Michael I. D\u2019Angelica"
+  - William R. Jarnagin
+  publisher: Annals of Surgical Oncology
+  date: '2025-05-22'
+  link: https://doi.org/hctkds
+  orcid: 0000-0002-4414-8846
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1117/12.3047302
+  title: Digital twin modeling and machine learning frameworks for forecasting multiple
+    microwave ablation volumes
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Frankangel Servin
+  - Jarrod Collins
+  - Jon S. Heiselman
+  - Virginia B. Planz
+  - Soheil Kolouri
+  - Daniel B. Brown
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2025: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2025-04-07'
+  link: https://doi.org/hctkdt
+  orcid: 0000-0002-4414-8846
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1117/12.3049031
+  title: Longitudinal imaging markers for pancreas cancer tumor response via Eshelby
+    biomechanics
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Jon S. Heiselman
+  - Natally Horvat
+  - Maria El Homsi
+  - Brett L. Ecker
+  - "Eileen M. O\u2019Reilly"
+  - T. Peter Kingham
+  - Kevin C. Soares
+  - "Michael I. D\u2019Angelica"
+  - William R. Jarnagin
+  - Richard K. G. Do
+  - Alice C. Wei
+  - Jayasree Chakraborty
+  publisher: 'Medical Imaging 2025: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2025-04-07'
+  link: https://doi.org/hctkdv
+  orcid: 0000-0002-4414-8846
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1117/12.3047043
+  title: Nonrigid alignment of en bloc tissue specimen to resection bed to enhance
+    correspondence for re-resection guidance
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Qingyun Yang
+  - Ayberk Acar
+  - Morgan J. Ringel
+  - Jon S. Heiselman
+  - Michael I. Miga
+  - Michael Topf
+  - Jie Ying Wu
+  publisher: 'Medical Imaging 2025: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2025-04-07'
+  link: https://doi.org/hctkdw
+  orcid: 0000-0002-4414-8846
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1117/12.3048616
+  title: Surgical navigation system for liver surgery based on HoloLens(R) 2
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Bowen Xiang
+  - Jon S. Heiselman
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2025: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2025-04-07'
+  link: https://doi.org/hctkdx
+  orcid: 0000-0002-4414-8846
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1097/sla.0000000000006659
+  title: The Association Between Surgical Margin Status, Recurrence Patterns, and
+    Oncologic Outcomes in Patients With Colorectal Liver Metastases
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Thomas Perrin
+  - Sarah M. McIntyre
+  - Fiona Ehrich
+  - Jon Heiselman
+  - Eric P. van der Stok
+  - Megan Fiasconaro
+  - "Mithat G\xF6nen"
+  - Jinru Shia
+  - Thomas Peter Kingham
+  - Vinod P. Balachandran
+  - Jeffrey A. Drebin
+  - Alice C. Wei
+  - William R. Jarnagin
+  - "Michael I. D\u2019Angelica"
+  publisher: Annals of Surgery
+  date: '2025-02-10'
+  link: https://doi.org/hctkdz
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1148/rycan.240073
+  title: 'Deformable Mapping of Rectal Cancer Whole-Mount Histology with                     Restaging
+    MRI at Voxel Scale: A Feasibility Study'
+  authors:
+  - "Jo\xE3o Miranda"
+  - Jon S. Heiselman
+  - Canan Firat
+  - Jayasree Chakraborty
+  - Rami S. Vanguri
+  - Antonildes N. Assuncao
+  - Josip Nincevic
+  - Tae-Hyung Kim
+  - Lee Rodriguez
+  - Nil Urganci
+  - Mithat Gonen
+  - Julio Garcia-Aguilar
+  - Marc J. Gollub
+  - Jinru Shia
+  - Natally Horvat
+  publisher: 'Radiology: Imaging Cancer'
+  date: '2024-11-01'
+  link: https://doi.org/hctkd2
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.media.2024.103221
+  title: Comparing regularized Kelvinlet functions and the finite element method for
+    registration of medical images to sparse organ data
+  authors:
+  - Morgan J. Ringel
+  - Jon S. Heiselman
+  - Winona L. Richey
+  - Ingrid M. Meszoely
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: Medical Image Analysis
+  date: '2024-08-01'
+  link: https://doi.org/hctkd3
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.3007858
+  title: Image guidance system for breast conserving surgery with integrated stereo
+    camera monitoring and deformable correction
+  authors:
+  - Morgan J. Ringel
+  - Winona L. Richey
+  - Jon S. Heiselman
+  - Alexander W. Stabile
+  - Ingrid M. Meszoely
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2024: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2024-03-29'
+  link: https://doi.org/hctkd4
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.3008584
+  title: Optimal hyperparameter selection in deformable image registration using information
+    criterion and band-limited modal reconstruction
+  authors:
+  - Jon S. Heiselman
+  - Morgan J. Ringel
+  - Jayasree Chakraborty
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2024: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2024-03-29'
+  link: https://doi.org/hctkd5
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/1.JMI.11.2.025001
+  title: Comparison study of intraoperative surface acquisition methods on registration
+    accuracy for soft-tissue surgical navigation
+  authors:
+  - Bowen Xiang
+  - Jon S. Heiselman
+  - Winona L. Richey
+  - "Michael I. D\u2019Angelica"
+  - Alice C. Wei
+  - T. Peter Kingham
+  - Frankangel Servin
+  - Kyvia Pereira
+  - Sunil  K. Geevarghese
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: Journal of Medical Imaging
+  date: '2024-03-04'
+  link: https://doi.org/hctkd6
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2767-9764.CRC-23-0449
+  title: A Pilot Study on Patient-specific Computational Forecasting of Prostate Cancer
+    Growth during Active Surveillance Using an Imaging-informed Biomechanistic Model
+  authors:
+  - Guillermo Lorenzo
+  - Jon S. Heiselman
+  - Michael A. Liss
+  - Michael I. Miga
+  - Hector Gomez
+  - Thomas E. Yankeelov
+  - Alessandro Reali
+  - Thomas J.R. Hughes
+  publisher: Cancer Research Communications
+  date: '2024-03-01'
+  link: https://doi.org/hctkd7
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/1.JMI.11.1.015001
+  title: 'The Image-to-Physical Liver Registration Sparse Data Challenge: comparison
+    of state-of-the-art using a common dataset'
+  authors:
+  - Jon S. Heiselman
+  - Jarrod A. Collins
+  - Morgan J. Ringel
+  - T. Peter Kingham
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: Journal of Medical Imaging
+  date: '2024-01-08'
+  link: https://doi.org/hctkd8
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-72089-5_34
+  title: "LIBR+: Improving Intraoperative Liver Registration by\_Learning the\_Residual\
+    \ of\_Biomechanics-Based Deformable Registration"
+  authors:
+  - Dingrong Wang
+  - Soheil Azadvar
+  - Jon Heiselman
+  - Xiajun Jiang
+  - Michael Miga
+  - Linwei Wang
+  publisher: Lecture Notes in Computer Science
+  date: '2024-01-01'
+  link: https://doi.org/hctkd9
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/OJEMB.2023.3345733
+  title: Simulation of Image-Guided Microwave Ablation Therapy Using a Digital Twin
+    Computational Model
+  authors:
+  - Frankangel Servin
+  - Jarrod A. Collins
+  - Jon S. Heiselman
+  - Katherine C. Frederick-Dyer
+  - Virginia B. Planz
+  - Sunil K. Geevarghese
+  - Daniel B. Brown
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: IEEE Open Journal of Engineering in Medicine and Biology
+  date: '2024-01-01'
+  link: https://doi.org/hctkfb
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TBME.2022.3233909
+  title: 'Soft Tissue Monitoring of the Surgical Field: Detection and Tracking of
+    Breast Surface Deformations'
+  authors:
+  - Winona L. Richey
+  - Jon S. Heiselman
+  - Morgan J. Ringel
+  - Ingrid. M. Meszoely
+  - Michael I. Miga
+  publisher: IEEE Transactions on Biomedical Engineering
+  date: '2023-07-01'
+  link: https://doi.org/hctkfc
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/1.JMI.10.3.036002
+  title: Registration-based biomarkers for neoadjuvant treatment response of pancreatic
+    cancer via longitudinal image registration
+  authors:
+  - Jon S. Heiselman
+  - Brett L. Ecker
+  - Liana Langdon-Embry
+  - "Eileen M. O\u2019Reilly"
+  - Michael I. Miga
+  - William R. Jarnagin
+  - Richard K. G. Do
+  - Natally Horvat
+  - Alice C. Wei
+  - Jayasree Chakraborty
+  publisher: Journal of Medical Imaging
+  date: '2023-06-02'
+  link: https://doi.org/hctkfd
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2655531
+  title: 'Accounting for brain shift during image-guided tumor resection surgeries:
+    an intraoperative feasibility study'
+  authors:
+  - Michael I. Miga
+  - Ma Luo
+  - Jaime Tierney
+  - Winona L. Richey
+  - Jon S. Heiselman
+  - Reid C. Thompson
+  publisher: 'Medical Imaging 2023: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2023-04-03'
+  link: https://doi.org/hctkff
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2655971
+  title: Comparison study of intraoperative surface acquisition methods for surgical
+    navigation
+  authors:
+  - Bowen Xiang
+  - Jon S. Heiselman
+  - Winona L. Richey
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2023: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2023-04-03'
+  link: https://doi.org/hctkfg
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2655468
+  title: 'Comparison study of sparse data-driven soft tissue registration: preliminary
+    results from the image-to-physical liver registration sparse data challenge'
+  authors:
+  - Jon S. Heiselman
+  - Jarrod A. Collins
+  - Morgan J. Ringel
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2023: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2023-04-03'
+  link: https://doi.org/hctkfh
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2655257
+  title: Digital twin forecasting of microwave ablation via fat quantification image-to-grid
+    computational methods
+  authors:
+  - Frankangel Servin
+  - Jarrod A. Collins
+  - Jon S. Heiselman
+  - Katherine Frederick-Dyer
+  - Virginia Planz
+  - Sunil K. Geevarghese
+  - Daniel B. Brown
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2023: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2023-04-03'
+  link: https://doi.org/hctkfj
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2655662
+  title: Modeling retraction for breast conserving surgery guidance
+  authors:
+  - Amairanny Espinosa
+  - Morgan J. Ringel
+  - Jon S. Heiselman
+  - Kyvia Pereira
+  - Frankangel Servin
+  - Winona L. Richey
+  - Ingrid Meszoely
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2023: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2023-04-03'
+  link: https://doi.org/hctkfk
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2655703
+  title: Stereovision registration using a tracked checkerboard calibration object
+    for a breast surgery image guidance system
+  authors:
+  - Alexander W. Stabile
+  - Morgan J. Ringel
+  - Winona L. Richey
+  - Jon S. Heiselman
+  - Ingrid Meszoely
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2023: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2023-04-03'
+  link: https://doi.org/hctkfm
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.clinbiomech.2023.105927
+  title: Incorporating heterogeneity and anisotropy for surgical applications in breast
+    deformation modeling
+  authors:
+  - Morgan J. Ringel
+  - Winona L. Richey
+  - Jon S. Heiselman
+  - Ingrid M. Meszoely
+  - Michael I. Miga
+  publisher: Clinical Biomechanics
+  date: '2023-04-01'
+  link: https://doi.org/hctkfn
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-43996-4_33
+  title: Regularized Kelvinlet Functions to Model Linear Elasticity for Image-to-Physical
+    Registration of the Breast
+  authors:
+  - Morgan Ringel
+  - Jon Heiselman
+  - Winona Richey
+  - Ingrid Meszoely
+  - Michael Miga
+  publisher: Lecture Notes in Computer Science
+  date: '2023-01-01'
+  link: https://doi.org/hctkfp
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TBME.2022.3177044
+  title: Computational Imaging to Compensate for Soft-Tissue Deformations in Image-Guided
+    Breast Conserving Surgery
+  authors:
+  - Winona L. Richey
+  - Jon S. Heiselman
+  - Morgan J. Ringel
+  - Ingrid. M. Meszoely
+  - Michael I. Miga
+  publisher: IEEE Transactions on Biomedical Engineering
+  date: '2022-12-01'
+  link: https://doi.org/g7twz5
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/1.JMI.9.6.065001
+  title: 'Supine magnetic resonance image registration for breast surgery: insights
+    on material mechanics'
+  authors:
+  - Morgan J. Ringel
+  - Winona L. Richey
+  - Jon S. Heiselman
+  - Ma Luo
+  - Ingrid M. Meszoely
+  - Michael I. Miga
+  publisher: Journal of Medical Imaging
+  date: '2022-11-14'
+  link: https://doi.org/hctkfq
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2611787
+  title: 'Breast image registration for surgery: insights on material mechanics modeling'
+  authors:
+  - Morgan J. Ringel
+  - Winona L. Richey
+  - Jon S. Heiselman
+  - Ma Luo
+  - Ingrid M. Meszoely
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2022: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2022-04-04'
+  link: https://doi.org/hctkfr
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2611479
+  title: Digital application to display brain shift simulation in tumor resection
+    procedures
+  authors:
+  - Kush Hari
+  - Rohan C. Vijayan
+  - Ma Luo
+  - Jaime Tierney
+  - Jon S. Heiselman
+  - Lola B. Chambless
+  - Reid C. Thompson
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2022: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2022-04-04'
+  link: https://doi.org/hctkfs
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2612938
+  title: 'Registration uncertainty in deforming organs: a novel approach for ensuring
+    navigational confidence during image-guided procedures'
+  authors:
+  - Jon S. Heiselman
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2022: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2022-04-04'
+  link: https://doi.org/hctkft
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2611570
+  title: Tumor deformation correction for an image guidance system in breast conserving
+    surgery
+  authors:
+  - Winona L. Richey
+  - Jon S. Heiselman
+  - Morgan J. Ringel
+  - Ingrid M. Meszoely
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2022: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2022-04-04'
+  link: https://doi.org/g7jmnr
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fphys.2021.820251
+  title: Fat Quantification Imaging and Biophysical Modeling for Patient-Specific
+    Forecasting of Microwave Ablation Therapy
+  authors:
+  - Frankangel Servin
+  - Jarrod A. Collins
+  - Jon S. Heiselman
+  - Katherine C. Frederick-Dyer
+  - Virginia B. Planz
+  - Sunil K. Geevarghese
+  - Daniel B. Brown
+  - Michael I. Miga
+  publisher: Frontiers in Physiology
+  date: '2022-02-03'
+  link: https://doi.org/hb3tqq
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11548-021-02452-8
+  title: Impact of deformation on a supine-positioned image-guided breast surgery
+    approach
+  authors:
+  - Winona L. Richey
+  - Jon S. Heiselman
+  - Ma Luo
+  - Ingrid M. Meszoely
+  - Michael I. Miga
+  publisher: International Journal of Computer Assisted Radiology and Surgery
+  date: '2021-08-12'
+  link: https://doi.org/hctkfv
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tmi.2021.3052523
+  title: Strain Energy Decay Predicts Elastic Registration Accuracy From Intraoperative
+    Data Constraints
+  authors:
+  - Jon S. Heiselman
+  - Michael I. Miga
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2021-04-01'
+  link: https://doi.org/gr29zp
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2582155
+  title: Improving accuracy of image-to-physical laparoscopic liver registration via
+    reconstruction of intrahepatic pressure changes from abdominal insufflation
+  authors:
+  - Jon S. Heiselman
+  - Winona L. Richey
+  - Shannon L. Taylor
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2021: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2021-02-15'
+  link: https://doi.org/hctkfw
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMI.2020.2967322
+  title: Intraoperative Correction of Liver Deformation Using Sparse Surface and Vascular
+    Features via Linearized Iterative Boundary Reconstruction
+  authors:
+  - Jon S. Heiselman
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2020-06-01'
+  link: https://doi.org/ggsgjt
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TBME.2019.2939686
+  title: Toward Image Data-Driven Predictive Modeling for Guiding Thermal Ablative
+    Therapy
+  authors:
+  - Jarrod A. Collins
+  - Jon S. Heiselman
+  - Logan W. Clements
+  - Jared A. Weis
+  - Daniel B. Brown
+  - Michael I. Miga
+  publisher: IEEE Transactions on Biomedical Engineering
+  date: '2020-06-01'
+  link: https://doi.org/hctkfx
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2550550
+  title: Image data-driven thermal dose prediction for microwave ablation therapy
+  authors:
+  - Alice K. Ding
+  - Jon S. Heiselman
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2020-03-16'
+  link: https://doi.org/hctkfz
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2550662
+  title: Textual fiducial detection in breast conserving surgery for a near-real time
+    image guidance system
+  authors:
+  - Winona L. Richey
+  - Jon S. Heiselman
+  - Ma Luo
+  - Ingrid M. Meszoely
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2020-03-16'
+  link: https://doi.org/hctkf2
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2550535
+  title: 'The image-to-physical liver registration sparse data challenge: characterizing
+    inverse biomechanical model resolution'
+  authors:
+  - Jon S. Heiselman
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2020-03-16'
+  link: https://doi.org/hctkf3
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-43195-2_16
+  title: Toward a Patient-Specific Image Data-Driven Predictive Modeling Framework
+    for Guiding Microwave Ablative Therapy
+  authors:
+  - Michael I. Miga
+  - Jarrod A. Collins
+  - Jon S. Heiselman
+  - Daniel B. Brown
+  publisher: Lecture Notes in Computational Vision and Biomechanics
+  date: '2020-01-01'
+  link: https://doi.org/g6gtkv
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/1.JMI.6.2.025007
+  title: 'Multiphysics modeling toward enhanced guidance in hepatic microwave ablation:
+    a preliminary framework'
+  authors:
+  - Jarrod A. Collins
+  - Jon S. Heiselman
+  - Logan W. Clements
+  - Daniel B. Brown
+  - Michael I. Miga
+  publisher: Journal of Medical Imaging
+  date: '2019-05-20'
+  link: https://doi.org/hctkf4
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2513588
+  title: Quantitative imaging analysis to guide biopsy for molecular biomarkers
+  authors:
+  - Derek J. Doss
+  - Jon S. Heiselman
+  - Ma Luo
+  - Logan W. Clements
+  - Michael I. Miga
+  - Daniel Brown
+  - Filip Banovac
+  publisher: 'Medical Imaging 2019: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2019-03-08'
+  link: https://doi.org/hctkf5
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2513952
+  title: The image-to-physical liver registration sparse data challenge
+  authors:
+  - Michael I. Miga
+  - Edward L. Brewer
+  - Logan W. Clements
+  - Jarrod A. Collins
+  - Derek J. Doss
+  - Jon S. Heiselman
+  - Chris D. Pavas
+  - Edward H. Wisdom
+  publisher: 'Medical Imaging 2019: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2019-03-08'
+  link: https://doi.org/hctkf6
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2295026
+  title: 'Technical note: Nonrigid registration for laparoscopic liver surgery using
+    sparse intraoperative data'
+  authors:
+  - Jon S. Heiselman
+  - Jarrod A. Collins
+  - Logan W. Clements
+  - Jared A. Weis
+  - Amber L. Simpson
+  - Sunil K. Geevarghese
+  - T. Peter Kingham
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: 'Medical Imaging 2018: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2018-03-12'
+  link: https://doi.org/hctkf7
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/1.jmi.5.2.021203
+  title: Characterization and correction of intraoperative soft tissue deformation
+    in image-guided laparoscopic liver surgery
+  authors:
+  - Jon S. Heiselman
+  - Logan W. Clements
+  - Jarrod A. Collins
+  - Jared A. Weis
+  - Amber L. Simpson
+  - Sunil K. Geevarghese
+  - T. Peter Kingham
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: Journal of Medical Imaging
+  date: '2017-12-14'
+  link: https://doi.org/hctkf8
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tmi.2017.2668842
+  title: Improving Registration Robustness for Image-Guided Liver Surgery in a Novel
+    Human-to-Phantom Data Framework
+  authors:
+  - Jarrod A. Collins
+  - Jared A. Weis
+  - Jon S. Heiselman
+  - Logan W. Clements
+  - Amber L. Simpson
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2017-07-01'
+  link: https://doi.org/hctkf9
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2255842
+  title: Emulation of the laparoscopic environment for image-guided liver surgery
+    via an abdominal phantom system with anatomical ligamenture
+  authors:
+  - Jon S. Heiselman
+  - Jarrod A. Collins
+  - Logan W. Clements
+  - Jared A. Weis
+  - Amber L. Simpson
+  - Sunil K. Geevarghese
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: SPIE Proceedings
+  date: '2017-03-03'
+  link: https://doi.org/hctkgb
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2255844
+  title: 'On the nature of data collection for soft-tissue image-to-physical organ
+    registration: a noise characterization study'
+  authors:
+  - Jarrod A. Collins
+  - Jon S. Heiselman
+  - Jared A. Weis
+  - Logan W. Clements
+  - Amber L. Simpson
+  - William R. Jarnagin
+  - Michael I. Miga
+  publisher: SPIE Proceedings
+  date: '2017-03-03'
+  link: https://doi.org/g72gvn
+  orcid: 0000-0002-4414-8846
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2255976
+  title: 'Using an Android application to assess registration strategies in open hepatic
+    procedures: a planning and simulation tool'
+  authors:
+  - Derek J. Doss
+  - Jon S. Heiselman
+  - Jarrod A. Collins
+  - Jared A. Weis
+  - Logan W. Clements
+  - Sunil K. Geevarghese
+  - Michael I. Miga
+  publisher: SPIE Proceedings
+  date: '2017-03-03'
+  link: https://doi.org/hctkgc
+  orcid: 0000-0002-4414-8846
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -228,9 +934,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -247,21 +950,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
