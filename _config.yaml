@@ -1,9 +1,9 @@
 # site properties and page defaults
 title: Welcome to MALLARD
 subtitle: Vanderbilt's Model AnaLytics Laboratory for Advanced tReatment Delivery
-description: An engaging 1-3 sentence description of your lab.
-header: images/Logo_Color_Square.png
-footer: images/Logo_Color_Square.png
+description: MALLARD's primary objective is to build biophysical modeling and statistical machine learning approaches that leverage computational imaging extract patient-specific information of pathophysiological disease state and treatment response from medical images to enhance therapeutic monitoring, treatment delivery, and response assessment. Our lab further emphasizes clinical validation of these computational clinical decision support tools and their translation into clinical practice.
+header: images/Designer.png
+footer: images/Designer.png
 proofer: false
 
 # site social media and other links
