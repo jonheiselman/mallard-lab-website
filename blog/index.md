@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 4
-  tooltip: See our lab's news here!
+  tooltip: See our lab's news here
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
