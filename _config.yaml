@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: MALLARD Lab Homepage
+title: Welcome to the MALLARD Lab
 subtitle: at Vanderbilt University
 description: An engaging 1-3 sentence description of your lab.
-header: images/designer.jpg
-footer: images/designer.jpg
+header: images/Designer.png
+footer: images/Designer.png
 proofer: false
 
 # site social media and other links
