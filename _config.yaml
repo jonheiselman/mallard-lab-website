@@ -1,14 +1,14 @@
 # site properties and page defaults
-title: Welcome to MALLARD's Home
-subtitle: Vanderbilt University's Model AnaLytics Laboratory for Advanced tReatment Delivery
+title: Welcome to MALLARD
+subtitle: Vanderbilt's Model AnaLytics Laboratory for Advanced tReatment Delivery
 description: An engaging 1-3 sentence description of your lab.
-header: images/Designer.png
-footer: images/Designer.png
+header: images/Logo_Color_Square.png
+footer: images/Logo_Color_Square.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@jonheiselman.com
+  email: jon.s.heiselman@vanderbilt.edu
   orcid: 0000-0002-4414-8846
   google-scholar: s_DmWYkAAAAJ
   github: jonheiselman
