@@ -1,9 +1,9 @@
 ---
 ---
 
-# jonheiselman's Website
+# Our Mission
 
-An engaging 1-3 sentence description of your lab.
+The mission of MALLARD is to [TODO: An engaging 1-3 sentence description of your lab.]
 
 {% include section.html %}
 
