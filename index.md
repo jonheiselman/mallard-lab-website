@@ -4,7 +4,7 @@
 {%
   include figure.html
   image="images/Designer.png"
-  width="1024px"
+  width="768px"
 %}
 
 # Our Mission
