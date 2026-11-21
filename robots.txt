@@ -1,0 +1,1 @@
+Sitemap: https://jonheiselman.github.io/mallard-lab-website/sitemap.xml
