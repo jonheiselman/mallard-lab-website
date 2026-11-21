@@ -1,6 +1,12 @@
 ---
 ---
 
+{%
+  include figure.html
+  image="images/Designer.png"
+  width="1024px"
+%}
+
 # Our Mission
 
 The mission of MALLARD is to [TODO: An engaging 1-3 sentence description of your lab.]
